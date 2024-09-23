@@ -1,0 +1,43 @@
+[
+    {
+      "accountNumber": "1234567890",
+      "accountHolderName": "John Doe",
+      "accountType": "Savings",
+      "balance": 15000.75,
+      "branch": "Downtown",
+      "createdAt": "2023-01-15T10:00:00Z"
+    },
+    {
+      "accountNumber": "2345678901",
+      "accountHolderName": "Jane Smith",
+      "accountType": "Checking",
+      "balance": 2500.50,
+      "branch": "Uptown",
+      "createdAt": "2023-02-20T14:30:00Z"
+    },
+    {
+      "accountNumber": "3456789012",
+      "accountHolderName": "Alice Johnson",
+      "accountType": "Savings",
+      "balance": 32000.00,
+      "branch": "Midtown",
+      "createdAt": "2023-03-10T09:15:00Z"
+    },
+    {
+      "accountNumber": "4567890123",
+      "accountHolderName": "Bob Brown",
+      "accountType": "Checking",
+      "balance": 500.00,
+      "branch": "Suburban",
+      "createdAt": "2023-04-05T11:45:00Z"
+    },
+    {
+      "accountNumber": "5678901234",
+      "accountHolderName": "Carol White",
+      "accountType": "Savings",
+      "balance": 7800.25,
+      "branch": "Rural",
+      "createdAt": "2023-05-25T16:00:00Z"
+    }
+  ]
+  
